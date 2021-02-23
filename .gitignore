@@ -146,3 +146,5 @@ source/vcpp/Standalone/assaultcube.tlog/rc.read.1.tlog
 source/vcpp/Standalone/assaultcube.tlog/rc.write.1.tlog
 source/vcpp/assaultcube.vcxproj
 source/vcpp/.vs/assaultcube/v16/ipch/
+serverlog_*.txt
+*_log.txt
